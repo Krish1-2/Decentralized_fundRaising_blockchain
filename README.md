@@ -51,6 +51,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ### Contact
 
-For any inquiries or support, please contact the project maintainer at [sanikam1543@gmail.com](mailto:sanikam1543@gmail.com).
+For any inquiries or support, please contact the project maintainer at [krish.mehta@spit.ac.in](mailto:krish.mehta@spit.ac.in).
 
 Thank you for using the Decentralized Patient Relief Platform! We hope this platform provides relief to patients in need.
